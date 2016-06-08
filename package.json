@@ -40,7 +40,7 @@
     "email": "npm@veldstra.org"
   },
   "dependencies": {
-    "artillery-core": "git://github.com/messagera/artillery-core.git#v0.1.0",
+    "artillery-core": "git://github.com/messagera/artillery-core.git#2d314ee",
     "async": "^1.0.0",
     "chalk": "1.1.3",
     "cli": "^0.6.6",
